@@ -2020,7 +2020,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -2277,7 +2277,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -2534,7 +2534,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -2791,7 +2791,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -3133,7 +3133,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -3379,7 +3379,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -5149,6 +5149,18 @@
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
         },
         {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
           "Quality": 0,
           "ForceBlueprint": false,
           "Amount": 1,
@@ -5229,7 +5241,7 @@
         {
           "Quality": 0,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 40,
           "Blueprint": "Blueprint'/Game/Mods/EvilArkStacks/Scrolls/Items/PrimalItem_RElementShardScroll.PrimalItem_RElementShardScroll'"
         },
         {
@@ -5352,7 +5364,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots' 1 5 0 600 0 250",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle' 1 6 0 300 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon' 1 5 0 400 135 0",
-        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 225 0",
+        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 175 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun' 1 5 0 500 190 0"
 
       ],
@@ -5398,6 +5410,18 @@
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
         },
         {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
           "Quality": 0,
           "ForceBlueprint": false,
           "Amount": 1,
@@ -5478,7 +5502,7 @@
         {
           "Quality": 0,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 40,
           "Blueprint": "Blueprint'/Game/Mods/EvilArkStacks/Scrolls/Items/PrimalItem_RElementShardScroll.PrimalItem_RElementShardScroll'"
         },
         {
@@ -5601,7 +5625,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots' 1 5 0 600 0 250",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle' 1 6 0 300 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon' 1 5 0 400 135 0",
-        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 225 0",
+        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 175 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun' 1 5 0 500 190 0"
 
       ],
@@ -5647,6 +5671,18 @@
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
         },
         {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Amount": 100,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart'"
+        },
+        {
           "Quality": 0,
           "ForceBlueprint": false,
           "Amount": 1,
@@ -5727,7 +5763,7 @@
         {
           "Quality": 0,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 40,
           "Blueprint": "Blueprint'/Game/Mods/EvilArkStacks/Scrolls/Items/PrimalItem_RElementShardScroll.PrimalItem_RElementShardScroll'"
         },
         {
@@ -5850,7 +5886,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots' 1 5 0 600 0 250",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle' 1 6 0 300 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon' 1 5 0 400 135 0",
-        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 225 0",
+        "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 5 0 150 175 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun' 1 5 0 500 190 0"
 
       ],
@@ -5966,7 +6002,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6113,7 +6149,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6260,7 +6296,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6407,7 +6443,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6544,7 +6580,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6576,7 +6612,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle' 1 6 0 400 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick' 1 6 0 400 298 0",
         "woolycryo {steamid} Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP' 361 1 1 1 45 45 45 45 45 45 45 45",
-        "GiveCryoWithStrider 50",
+        "GiveCryoWithStrider 150",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt' 1 1 0 400 0 300",
@@ -6685,7 +6721,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6717,7 +6753,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle' 1 6 0 400 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick' 1 6 0 400 298 0",
         "woolycryo {steamid} Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP' 361 1 1 1 45 45 45 45 45 45 45 45",
-        "GiveCryoWithStrider 50",
+        "GiveCryoWithStrider 150",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt' 1 1 0 400 0 300",
@@ -6826,7 +6862,7 @@
       ],
       "Dinos": [
         {
-          "Level": 225,
+          "Level": 275,
           "Put_In_CryoPod": true,
           "Neutered": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'"
@@ -6858,7 +6894,7 @@
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle' 1 6 0 400 298 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick' 1 6 0 400 298 0",
         "woolycryo {steamid} Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP' 361 1 1 1 45 45 45 45 45 45 45 45",
-        "GiveCryoWithStrider 50",
+        "GiveCryoWithStrider 150",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots' 1 1 0 400 0 300",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Tek/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt' 1 1 0 400 0 300",
@@ -6935,6 +6971,7 @@
 
       "ConsoleCommands": [
 
+        "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_ShieldTek.PrimalItemArmor_ShieldTek' 1 5 0 8000 0 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet' 1 6 0 300 145 0",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon' 1 6 0 300 145 0",
         "woolyitem {steamid} Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow' 1 6 0 300 265 0",
@@ -7045,6 +7082,12 @@
         }
       ],
       "Dinos": [
+        {
+          "Level": 150,
+          "Put_In_CryoPod": true,
+          "Neutered": false,
+          "Blueprint": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'"
+        }
 
       ],
       "ConsoleCommands": [
@@ -7154,6 +7197,12 @@
         }
       ],
       "Dinos": [
+        {
+          "Level": 150,
+          "Put_In_CryoPod": true,
+          "Neutered": false,
+          "Blueprint": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'"
+        }
 
       ],
       "ConsoleCommands": [
@@ -7263,6 +7312,12 @@
         }
       ],
       "Dinos": [
+        {
+          "Level": 150,
+          "Put_In_CryoPod": true,
+          "Neutered": false,
+          "Blueprint": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'"
+        }
 
       ],
       "ConsoleCommands": [
@@ -7372,6 +7427,12 @@
         }
       ],
       "Dinos": [
+        {
+          "Level": 150,
+          "Put_In_CryoPod": true,
+          "Neutered": false,
+          "Blueprint": "Blueprint'/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP'"
+        }
 
       ],
       "ConsoleCommands": [
@@ -8440,7 +8501,7 @@
         "Max_Purchase_Same_Time_Amount": 1,
         "Max_Purchases/Uses": 1000,
         "Prevent_Usage_After_Wipe_For_Minutes": 4320,
-        "Cooldown_Days": 3,
+        "Cooldown_Days": 1,
         "Cooldown_Hours": 0,
         "Cooldown_Minutes": 0,
         "Cooldown_Seconds": 0
@@ -12534,7 +12595,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
@@ -13294,7 +13355,7 @@
       "DefaultAmount": 0,
       "OnlyFromSpawn": false,
       "AutoGiveOnSpawn": false,
-      "Price": 12000,
+      "Price": 2500,
       "Icon": "Texture2D'/Game/Mods/StructuresPlusMod/icons/Rockwell_soup.Rockwell_soup'",
       "Items": [
         {
@@ -15548,7 +15609,7 @@
         {
           "Quality": 1,
           "ForceBlueprint": false,
-          "Amount": 20,
+          "Amount": 10,
           "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretHeavy/PrimalItemStructure_RAutoTurretHeavy.PrimalItemStructure_RAutoTurretHeavy'"
         },
         {
