@@ -235,7 +235,7 @@
       "DefaultAmount": 1,
       "OnlyFromSpawn": false,
       "AutoGiveOnSpawn": false,
-      "Price": 150,
+      "Price": 70,
       "Icon": "Texture2D'/Game/Mods/StructuresPlusMod/icons/starter_kit.starter_kit'",
       "Exclude_From_Discount": false,
       "Items": [
@@ -309,6 +309,12 @@
       "AutoGiveOnSpawn": false,
       "Exclude_From_Discount": false,
       "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Genesis2/Dinos/MilkGlider/PrimalItemArmor_MilkGliderSaddle.PrimalItemArmor_MilkGliderSaddle'"
+        },
         {
           "Amount": 1,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHarpoon.PrimalItem_WeaponHarpoon'",
@@ -386,6 +392,7 @@
 
       ],
       "ConsoleCommands": [
+        "woolyitem {steamid} Blueprint'/Game/Genesis2/Dinos/MilkGlider/PrimalItemArmor_MilkGliderSaddle.PrimalItemArmor_MilkGliderSaddle' 1 5 0 0 0 50",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet' 1 3 0 350 0 200",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt' 1 3 0 350 0 200",
         "woolyitem {steamid} Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants' 1 3 0 350 0 200",
@@ -419,6 +426,12 @@
         "Cooldown_Seconds": 0
       },
       "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
         {
           "Quality": 1,
           "ForceBlueprint": false,
@@ -503,6 +516,12 @@
       },
       "Items": [
         {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
+        {
           "Quality": 1,
           "ForceBlueprint": false,
           "Amount": 10,
@@ -585,6 +604,12 @@
         "Cooldown_Seconds": 0
       },
       "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
         {
           "Quality": 1,
           "ForceBlueprint": false,
@@ -669,6 +694,12 @@
       },
       "Items": [
         {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
+        {
           "Quality": 1,
           "ForceBlueprint": false,
           "Amount": 10,
@@ -751,6 +782,12 @@
         "Cooldown_Seconds": 0
       },
       "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
         {
           "Quality": 1,
           "ForceBlueprint": false,
@@ -835,6 +872,12 @@
       },
       "Items": [
         {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
+        {
           "Quality": 1,
           "ForceBlueprint": false,
           "Amount": 10,
@@ -918,6 +961,12 @@
       },
       "Items": [
         {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
+        {
           "Quality": 1,
           "ForceBlueprint": false,
           "Amount": 10,
@@ -1000,6 +1049,12 @@
         "Cooldown_Seconds": 0
       },
       "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/LethalReusable/GrapplingBow_LR.GrapplingBow_LR'"
+        },
         {
           "Quality": 1,
           "ForceBlueprint": false,
