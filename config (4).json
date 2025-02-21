@@ -6926,7 +6926,12 @@
         "Cooldown_Seconds": 0
       },
       "Items": [
-
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Misc/RAutoTurretTek/PrimalItemStructure_RAutoTurretTek.PrimalItemStructure_RAutoTurretTek'"
+        },
         {
           "Quality": 1,
           "ForceBlueprint": false,
@@ -23122,6 +23127,45 @@
 
       ]
     },
+    "0522_Mammoth_224LvL": {
+      "Title": "Mammoth",
+      "Categories": [ "Dino" ],
+      "Description": "Mammoth 224 lvl + default saddle",
+      "Price": 1000,
+      "Exclude_From_Discount": false,
+      "Items": [
+        {
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Amount": 1,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MammothSaddle.PrimalItemArmor_MammothSaddle'"
+        }
+      ],
+      "Dinos": [
+        {
+          "Level": 224,
+          "Put_In_CryoPod": true,
+          "Neutered": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'",
+          "Options": {
+            "Famele_Extra_Price": 125,
+            "Male_Extra_Price": 250
+          }
+        }
+      ],
+      "ConsoleCommands": [
+        ""
+      ],
+      "PermissionGroupRequired": [
+
+      ],
+      "Only_On_These_Maps": [
+
+      ],
+      "NOT_On_These_Maps": [
+
+      ]
+    },
     "0123_Daeodon_224LvL": {
       "Title": "Daeodon",
       "Categories": [ "Dino" ],
@@ -25151,18 +25195,6 @@
           "ForceBlueprint": false,
           "Amount": 1,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArthroSaddle.PrimalItemArmor_ArthroSaddle'"
-        },
-        {
-          "Quality": 0,
-          "ForceBlueprint": false,
-          "Amount": 1,
-          "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Potions/PrimalItemConsumable_DinoImprintPotion.PrimalItemConsumable_DinoImprintPotion'"
-        },
-        {
-          "Quality": 0,
-          "ForceBlueprint": false,
-          "Amount": 1,
-          "Blueprint": "Blueprint'/Game/Mods/StructuresPlusMod/Potions/PrimalItemConsumable_XPPotion.PrimalItemConsumable_XPPotion'"
         }
       ],
       "Dinos": [
